@@ -1,0 +1,19 @@
+.flag_container .lnflag img{margin-right:3px}
+.flag_container .lnflag{float:left}
+.wrap{background:none repeat scroll 0 0 #FFF;border:2px solid #F6358A}
+.wrap #submit{background:none repeat scroll 0 0 #F6358A;border-color:#F6358A;margin-left:4px}
+.bt_submit .submit{margin:0;padding:0}
+.bt_label{clear:both;float:left;padding:0 0 20px;width:239px}
+.bt_label label{padding-left:32px}
+.bt_field{float:left;padding:0 0 10px;width:352px}
+.bt_opt_title{border-bottom:2px solid #F6358A;margin-bottom:17px}
+.bt_opt_title h2{padding:9px 59px 14px 273px}
+.wrap .ms-sel-ctn .ms-empty-text{color:#444}
+#bt_choice{width:188px}
+.bt_selall,.bt_submit{margin-left:237px}
+.bt_form{float:left;width:600px}
+.preview_meta{background:none repeat scroll 0 0 #FFF;float:right;margin:0 66px 17px 0;padding:10px}
+.preview_meta i{color:#F6358A;font-size:9px;padding:0 0 0 20px}
+.preview_meta p{border-bottom:1px solid #F6358A;color:#F6358A;font-size:16px;font-weight:700;margin:0;padding:0 0 7px;text-align:center}
+#bt_preview{margin-top:9px;width:126px}
+.short_code_examle{border-top:2px solid #F6358A;clear:both;padding:0 6px 0 0;text-align:center}
